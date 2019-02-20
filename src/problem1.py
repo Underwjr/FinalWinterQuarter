@@ -76,6 +76,7 @@ def problem1(square, thickness, window):
       -- A positive integer
       -- An rg.RoseWindow.
     What goes out:  Nothing (i.e., None).
+    Use iterative development for this problem.  Perform each of the steps below in sequence!
     Side effects:
       -- Draws, on the given rg.RoseWindow:
            -- The given rg.Square.
