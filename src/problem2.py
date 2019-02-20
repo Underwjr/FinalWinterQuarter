@@ -23,7 +23,7 @@ def test_factor_sum():
     #
     #    1. Read the  doc-string of the   factor_sum   function defined below.
     #
-    #    2. Add to THIS function at least ** 5 ** tests that, taken together,
+    #    2. Add to THIS function at least ** 3 ** tests that, taken together,
     #       would form a    ** REASONABLY GOOD test set **
     #       for testing the   factor_sum   function defined below.
     #
