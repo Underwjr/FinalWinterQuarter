@@ -1,10 +1,11 @@
 """
 Exam 1, problem 2.
 
-Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
+Authors: Patsy Brackin, but mostly David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
          Mark Hays, Amanda Stouder, Aaron Wilkin, their colleagues,
          and PUT_YOUR_NAME_HERE.
 """  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+     # You only have to implement the tests, not write the function!!!!!
 
 
 def main():
@@ -15,7 +16,10 @@ def main():
 def test_factor_sum():
     """ Tests the   factor_sum   function. """
     ###########################################################################
+    #  Remember:  You only have to write the test for factor_sum.
+    #  factor_sum has been written for you!!!
     #  TODO: 2. Implement this TEST function, as follows:
+    #
     #
     #    1. Read the  doc-string of the   factor_sum   function defined below.
     #
