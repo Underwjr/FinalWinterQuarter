@@ -3,8 +3,8 @@ Exam 1, problem 3.
 
 Authors: Patsy_Brackin but mostly David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
          Mark Hays, Amanda Stouder, Aaron Wilkin, their colleagues,
-         and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+         and Jairyq Underwood.
+"""  # Done 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 import testing_helper
 import time
@@ -172,6 +172,13 @@ def problem3a(r, s):
     #    **  use (call) the   sum_of_digits   function
     #    **  that is DEFINED ABOVE.
     ###########################################################################
+    total = 0
+    for k in range(r, s+1):
+
+        if sum_of_digits(k) % 2 != 0:
+
+            total = total + k
+            print(total)
 
 
 def run_test_problem3b():

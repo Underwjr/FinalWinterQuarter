@@ -73,6 +73,11 @@ def problem4(number_of_stairs, step_size, starting_point, window):
     # IMPORTANT: For PARTIAL CREDIT, you can draw just the black "bottoms"
     #            of the stair steps.
     # -------------------------------------------------------------------------
+    point1 = starting_point
+    line1 = point1
+    line1.attach_to(window)
+
+
 
 
 # -----------------------------------------------------------------------------
